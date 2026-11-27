@@ -1,4 +1,4 @@
-<h1 align="center">Zhang Xin Miao</h1>
+<h1 align="center">Axiqra</h1>
 
 <p align="center"><strong>在做 Axiqra，一个面向 AI 团队的项目协作空间。</strong><br>
 Building Axiqra, a shared workspace for AI teams.</p>
